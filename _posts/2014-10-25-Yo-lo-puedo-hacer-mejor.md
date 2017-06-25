@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Yo lo puedo hacer mejor
 ---
-# Yo lo puedo hacer mejor
 
 Cuando aprendes a hacer algo, hay una maldición que todos sabemos que existe, pero no mucha gente habla de ella. Una vez que aprendes a hacer algo, lo que sea, la siguiente vez que lo veas a la venta o hecho por alguien más, te van a dar ganas de hacerlo tú. La cuestión de si de hecho lo puedes hacer no tiene importancia, la maldición te dice: *obviamente lo puedes hacer y mucho mejor que como lo venden y no te va a costar un peso*.
 

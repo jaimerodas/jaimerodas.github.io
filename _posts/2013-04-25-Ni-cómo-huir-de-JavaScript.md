@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Ni cómo huir de JavaScript
 ---
-# Ni cómo huir de JavaScript
 
 No me pregunten por qué, pero nunca he sido gran fan de JS. Hay algo que siempre me ha dado mala espina. Antes, trataba de sacarle la vuelta, siempre tener fallbacks a procesamiento *server-side* en lugar de depender de *browser-side*, tanto como me lo reclame la gente con quién trabajo.
 

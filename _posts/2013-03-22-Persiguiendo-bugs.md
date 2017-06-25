@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Persiguiendo bugs
 ---
-# Persiguiendo bugs
 
 Durante mi poca experiencia con esto de la programación, he ido aprendiendo lo importante que es tener un código limpio y fácil de entender. Yo soy pésimo para leer código, tanto así que llevo 3 días (y contando) buscando un bug y soy incapaz de encontrarlo; estoy seriamente considerando volverme jardinero.
 

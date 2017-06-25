@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: El Banco Ideal
 ---
-# El Banco Ideal
 
 Voy a contar uno de mis sueños guajiros. Imagínate que estás en otra realidad, una en la que los ingenieros de sistemas saben lo que hacen, en donde buscan hacer un buen trabajo y no sólo el menor esfuerzo posible, y, lo más raro, en donde hay un banco que se preocupa por sus clientes.
 

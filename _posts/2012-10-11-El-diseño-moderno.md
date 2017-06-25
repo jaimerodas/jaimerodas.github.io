@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: El diseño moderno
 ---
-# El diseño moderno
 
 Hay quienes dicen que el diseño no sirve de mucho. He encontrado muchos que comparten esa opinión. Para mí, los ejemplos del mal diseño son **tan** comunes que el argumento para hacer mejor diseño debería hacerse sólo. Pero no es así.
 

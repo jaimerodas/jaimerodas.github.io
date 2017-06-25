@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Ingeniería de calidad
 ---
-# Ingeniería de calidad
 
 Hace unos días, murió la hermana de mi mamá, tras haber batallado con cáncer cervicouterino por más de un año. La familia ahora está en proceso de revisar sus cosas para llevar a cabo todos esos procesos y requerimientos tan extraños que proceden a la muerte.
 

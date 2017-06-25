@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: La peor obsesión
 ---
-# La peor obsesión
 
 Empezó sin que me diera cuenta. Notaba diseños bonitos, y algo en mi cerebro los archivaba, y sin querer, fui desarrollando un ojo para eso. Me daba cuenta de composiciones de color, arreglos, espaciados, y principalmente, tipografía.
 

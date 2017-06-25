@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Un nuevo Surrealista
 ---
-# Un nuevo Surrealista
 
 En mi [chamba](http://surrealista.mx), por fin tomamos la decisión de contratar a alguien. Lo difícil no fue darnos cuenta que necesitábamos ayuda, sino encontrar a alguien que se pudiera adaptar a nuestra, muy [bizarra](http://lema.rae.es/drae/?val=bizarro), manera de trabajar.
 

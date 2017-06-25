@@ -2,29 +2,49 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$serif: "Inkwell Serif A", "Inkwell Serif B", Times, serif;
+$sans: "Inkwell Sans A", "Inkwell Sans B";
+
 html, body {
   margin: 0;
   padding: 0;
   min-height: 100%;
+
+  background-color: #2c3e50;
+  color: #ecf0f1;
 }
 
 body {
-  line-height: 1.4;
+  line-height: 1.25;
   font-size: 20px;
-  font-family: "Inkwell Serif A", "Inkwell Serif B";
+  font-family: $serif;
   font-weight: 400;
 }
 
-h1, h2, h3, h4, header {
-  font-family: "Inkwell Sans A", "Inkwell Sans B";
+h1, h2, h3, h4 {
+  font-family: $serif;
+}
+
+a {
+  text-decoration: none;
+  color: #3498db;
+  border-bottom: 0.1rem solid #3498db;
+  &:hover {
+    color: inherit;
+  }
 }
 
 header {
+  font-family: $sans;
   padding: 1em;
   font-weight: bold;
-  text-transform: uppercase;
   text-align: center;
-  border-bottom: 1px solid #eee;
+  border-bottom: 0.1rem solid #34495e;
+
+  a {
+    color: #bdc3c7;
+    border: none;
+  }
 
   nav {
     text-transform: none;
@@ -40,6 +60,22 @@ header {
 
 main {
   padding: 1em;
+  max-width: 32em;
+  margin: 0 auto;
+
+  h1 {
+    line-height: 1;
+    text-align: center;
+  }
+
+  .article-date {
+    color: #bdc3c7;
+    font-family: $sans;
+    font-size: 0.8em;
+    text-align: center;
+    display: block;
+    margin-top: -1.5rem;
+  }
 }
 
 @media screen and (min-width: 24rem) {
@@ -52,5 +88,11 @@ main {
     nav a {
       padding: 0.5em;
     }
+  }
+}
+
+@media screen and (min-width: 36rem) {
+  main {
+    font-size: 1.2em;
   }
 }

@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: Responsive Web Design
 ---
-# Responsive Web Design
 
 Hace un año, más o menos, leí un libro increíble de [Ethan Marcotte](https://twitter.com/beep) llamado [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design). Cambió por completo cómo veía el diseño en web. Creo que ya percibía el hecho de que cada vez nos estamos moviendo a un internet más móvil, pero no había imaginado las consecuencias de eso sobre el diseño.
 

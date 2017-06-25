@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: Adiós al Surrealismo
 ---
-
-# Adiós al Surrealismo
 
 Después de 6 años trabajando, [Rob][1] y yo decidimos cerrar la empresa. Fue una decisión difícil, pero hoy, casi un año después, creo que fue la correcta.
 
