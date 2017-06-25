@@ -1,0 +1,27 @@
+.posts-navigation {
+  margin-top: 4rem;
+  display: flex;
+  font-family: $sans;
+  font-size: 0.75em;
+
+  a {
+    padding: 1em;
+    width: 50%;
+    color: #7f8c8d;
+    border: none;
+    &:hover {
+      background-color: #34495e;
+    }
+  }
+
+  .posts-next {
+    text-align: right;
+  }
+
+  .nav-title {
+    color: #bdc3c7;
+    font-family: $serif;
+    font-weight: bold;
+    font-size: 1.33333333em;
+  }
+}

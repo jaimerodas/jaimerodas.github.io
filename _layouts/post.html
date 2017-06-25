@@ -8,6 +8,23 @@
       <span class="article-date">{{ page.date | date: "%d %B %Y" }}</span>
 
       {{ content }}
+
+      <div class="posts-navigation">
+      {% if page.previous.url %}
+        <a class="posts-prev" href="{{page.previous.url}}">
+          <div class="nav-direction">Anterior</div>
+          <div class="nav-title">{{page.previous.title}}</div>
+          <div class="nav-date">{{page.previous.date | date: "%Y-%m-%d"}}</div>
+        </a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="posts-next" href="{{page.next.url}}">
+          <div class="nav-direction">Siguiente</div>
+          <div class="nav-title">{{page.next.title}}</div>
+          <div class="nav-date">{{page.next.date | date: "%Y-%m-%d"}}</div>
+        </a>
+      {% endif %}
+    </div>
     </main>
   </body>
 

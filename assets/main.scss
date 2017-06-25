@@ -21,10 +21,6 @@ body {
   font-weight: 400;
 }
 
-h1, h2, h3, h4 {
-  font-family: $serif;
-}
-
 a {
   text-decoration: none;
   color: #3498db;
@@ -96,3 +92,5 @@ main {
     font-size: 1.2em;
   }
 }
+
+@import "navigation";
