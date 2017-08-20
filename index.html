@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<h1>Jaime Rodas</h1>
-
+<h1>Notas</h1>
+<a href="{{ '/acerca-de' | relative_url }}">Yo quién soy?</a>
 {% for post in site.posts  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}

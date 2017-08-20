@@ -9,8 +9,9 @@
     width: 50%;
     color: #7f8c8d;
     border: none;
+    transition: 0.2s ease background-color;
     &:hover {
-      background-color: #34495e;
+      background-color: #d9dee3;
     }
   }
 
@@ -19,7 +20,7 @@
   }
 
   .nav-title {
-    color: #bdc3c7;
+    color: #274c65;
     font-family: $serif;
     font-weight: bold;
     font-size: 1.33333333em;

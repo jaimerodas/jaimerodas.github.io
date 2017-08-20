@@ -1,6 +1,6 @@
 ---
 title: Este güey qué?
-permalink: /quien-es/
+permalink: /acerca-de/
 layout: default
 ---
 # Este güey qué?
