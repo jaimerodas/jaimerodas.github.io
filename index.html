@@ -14,11 +14,11 @@ layout: default
 {% if paginator.next_page or paginator.previous_page %}
   <nav class="posts-navigation">
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="nav-title">Más viejos</a>
+      <a href="{{ paginator.next_page_path }}" class="posts-prev nav-title">Más viejos</a>
     {% endif %}
 
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="nav-title">Más nuevos</a>
+      <a href="{{ paginator.previous_page_path }}" class="posts-next nav-title">Más nuevos</a>
     {% endif %}
   </nav>
 {% endif %}
