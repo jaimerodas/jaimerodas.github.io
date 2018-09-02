@@ -29,15 +29,17 @@ nadie más. Siempre lo describo como alguien que "tiene un chingo de hambre. Se
 quiere comer el mundo." Le dije que tenía que aprender OOP y aprendió luego
 luego. Le dije que tenía que aprender SOLID y aprendió luego luego. Le dije que
 tenía que mejorar sus modos y lo hizo luego luego. Decidimos darle más
-responsabilidades y las aceptaba sin queja y pronto ya las dominaba. Hoy me 
-llena de orgullo poderle entregar el mando del equipo a él.
+responsabilidades y las aceptaba sin queja y pronto ya las dominaba. Como ya no
+siento que tenga algo más que le pueda enseñar, hoy me llena de orgullo poderle 
+entregar el mando del equipo a él. Sé que va a hacer una mejor chamba que yo y
+me emociona ver todos sus futuros logros.
 
-A mi me tocan nuevos retos, tengo ahora dos equipos increíbles que están 
+A mí me tocan nuevos retos; tengo ahora dos equipos increíbles que están 
 resolviendo problemas para la [reparadora de crédito][3] más grande de México.
-Están teniendo que echarse al hombro todos los problemas que vienen de crecer 
-esa línea de negocio a [Colombia][4], [Argentina][5], y ahora [España][6]. No
-tengo idea de qué les pueda enseñar a ellos, pero estoy seguro de que ellos me
-enseñarán muchísimo a mí. 
+Están teniendo que echarse al hombro muchos de los problemas que vienen de 
+crecer esa línea de negocio a [Colombia][4], [Argentina][5], y ahora 
+[España][6]. No tengo idea de qué les pueda enseñar a ellos, pero estoy seguro 
+de que ellos me enseñarán muchísimo a mí. 
 
 Así que, tan difícil como es y tan triste como me deja dejar un equipo, me
 emociona tomar estos otros y ver qué más podemos hacer. En fin, no queda más
@@ -49,4 +51,3 @@ que seguirle chingando.
 [4]: https://resuelvetudeuda.com.co
 [5]: https://resolvetudeuda.com.ar
 [6]: https://resuelvetudeuda.es
-
